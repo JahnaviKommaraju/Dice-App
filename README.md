@@ -1,6 +1,6 @@
 # dice_app
 
-A new Flutter project.
+A new Dice App Flutter project.
 
 ## Getting Started
 
